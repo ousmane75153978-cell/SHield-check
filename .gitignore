@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.aar
+*.so
+*.war
+*.zip
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local
+local.properties
+.classpath
+.project
+.settings/
+
+# Secrets
+.env
+.env.local
+secrets.properties
+
+# Android
+*.log
+*.originals
+
+# Build
+bin/
+gen/
+out/
+.cxx/
